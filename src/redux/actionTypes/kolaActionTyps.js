@@ -1,0 +1,1 @@
+export const KOLA_KHA = 'KOLA_KHA';
